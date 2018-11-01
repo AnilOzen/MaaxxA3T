@@ -8,3 +8,7 @@ https://downloads.ubiquityrobotics.com/pi.html
 
 ## Installing openCV3 on raspberry pi 
 sudo apt-get install ros-kinetic-opencv3
+
+## Link to openCV3 tutorial "Getting Started with Images"
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html
+
